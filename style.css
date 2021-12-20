@@ -83,7 +83,7 @@
             {
                 text-align: center;
             }
-            section#section-a .inner-sec {
+            section .section-a .inner-sec {
                 position: relative;
                 z-index: 11;
             }
