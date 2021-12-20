@@ -224,14 +224,11 @@
                 color: #fff !important;
             }
 
-            .section-b
-            {
-                margin-top: -300px;
-            }
-          
             .sec-inner-img
             {
                 text-align:center;
+                position: relative;
+                top: -200px;
             }
             .solid
             {
